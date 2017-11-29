@@ -1,2 +1,2 @@
 # python
-This is Just random Python code.  Please move along.
+This is just random Python code.  Please move along.
